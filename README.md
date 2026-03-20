@@ -1,2 +1,3 @@
-# advanced-quiz-platform-8bh4
-Automated issue comment bot repository
+# Advanced Quiz Platform 8Bh4
+
+Automated issue comment bot repository.
